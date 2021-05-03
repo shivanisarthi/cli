@@ -118,7 +118,7 @@ Build Syntax Suffix             | Commit Used           | Build Context Used
 
 ### Tarball contexts
 
-If you pass an URL to a remote tarball, the URL itself is sent to the daemon:
+If you pass a URL to a remote tarball, the URL itself is sent to the daemon:
 
 ```bash
 $ docker build http://server/context.tar.gz
